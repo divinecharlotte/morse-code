@@ -28,9 +28,7 @@ To get a local copy up and running follow these simple example steps.
 
 👤 **Charlotte Divine**
 
-- GitHub: [divinecharlotte]()
-- Twitter: [@adukyerer](https://www.twitter.com/adukyerer)
-
+- GitHub: [divinecharlotte](https://github.com/divinecharlotte)
 
 👤 **Shubh M**
 
@@ -52,7 +50,3 @@ Give a ⭐️ if you liked this project!
 - Microverse 
 - Coding Partners
 - Code Reviewers
-
-## 📝 License
-
-This project is [MIT](./MIT.md) licensed.
